@@ -1,0 +1,19 @@
+body {
+    background-image: url(im.jpg);
+}
+
+.uno {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.61);
+    padding: 10px 10px;
+    border-radius: 30px;
+    margin: 20px 500px;
+}
+
+.fibo {
+    padding: 20px 40px;
+    background: rgba(255, 255, 255, 0.712);
+    border-radius: 20px;
+    font-size: 25px;
+}
